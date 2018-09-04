@@ -1,0 +1,12 @@
+/* Embedd form in hamburger menu */
+@media screen and (max-width: 992px) {
+    #nav-text {
+        width: 70%;
+        margin-right: 4vw;
+    }
+}
+
+/* Spacing between navbar and body */
+.container-fluid {
+    margin-top: 1vw;
+}
